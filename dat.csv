@@ -1,0 +1,47 @@
+Obra, Duración_en_dias, Costo_por_dia, Concluida
+Puente, 250, 120000, SI 
+Edificio, 470, 230000, SI
+Carretera, 469, 147000, SI
+Acueducto Rural, 600, 590000, SI
+Casa, 590,  150000, SI
+Puente elevado, 670,  100000, SI
+Viaducto, 718,  180000, SI
+Túnel, 715, 843000, SI
+Canal, 693, 542000, SI
+Presa, 489,  432000, SI
+Parque, 387, 320000, SI
+iglesia, 632, 430000, SI
+alcantarillado, 620, 239000, SI
+Cunetas, 300, 180000, SI
+Drenaje, 500, 400000, SI
+Adoquinado, 200, 450000, SI
+Vados, 480, 600000, SI
+Acueducto Urbano, 250, 455500, SI
+Boulevares, 370, 345000, SI
+Enchape de causes,540,  234000, SI
+Empedrado, 320, 345000, SI
+Rampcomo, 690,  543000, SI
+Andenes, 430,  234000, SI
+Planta de tratamientos de aguas residuales, 543, 450000, SI
+Estadio, 456, 432999, SI
+Rastros, 765, 467000, SI
+Parada de buses, 234,  456000, SI
+Centro recreativo, 689, 756000, SI
+Biblioteca, 789, 475000, SI
+Escuela, 543,  128000, SI
+Casa comunal, 567,  543000, SI
+Mercado, 543, 677800, SI
+Hospital, 567, 543000, SI
+conjunto residencial, 543,  349000, SI
+Cancha sintetica, 456, 453000, SI
+Parque Ecologico, 755, 326000, SI
+Centro familiar cristiano, 678, 256000, SI
+Aereopuerto, 543,  576000, SI
+Terminal, 1455, 576800, SI
+Puente colgante, 556, 463700, SI
+Represa hidroelectrica, 568, 367480, SI
+Ferrocaril, 654, 467590, SI
+Pista de patinaje, 456, 465700, SI
+Metro, 654, 465892, SI
+Coliseo, 456, 458000, SI
+Zoologico, 789, 438000, SI
